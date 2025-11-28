@@ -40,4 +40,5 @@ client.on("message", (msg) => {
   }
 });
 
-client.loginBot("8c_lH4o6MenpxDIDDq6hRoBiMxNw3AaNtgT2id-r0xhth4ZLLpnWx1CDWXg9Izh");
+client.loginBot("ut8yeavMMvciVmUcrMsNSN6Uf6ecE_EUpbRnKeUdiDdBZcz2g0GBoMUek7kuo_TX
+");
